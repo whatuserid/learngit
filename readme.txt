@@ -5,3 +5,4 @@ Git tracks changes.
 Git Test Checkout
 Creating a new branch is quick.
 Creating a new branch is quick and simple
+Test --on-ff方式的git merge
